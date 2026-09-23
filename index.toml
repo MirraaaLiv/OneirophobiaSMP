@@ -617,12 +617,13 @@ file = "mods/symbiote-1.1.3.jar"
 hash = "e40f48a8a9bf1f39ea173a7c163285df199b7d2cf1dfcbf3efa721fe7f2f942c"
 
 [[files]]
-file = "mods/the_knocker-1.5.2-forge-1.20.1.jar"
-hash = "43af17f0400ed38bfc98be7bcc27c29c76a38f7472970bf83496c548abdec94e"
+file = "mods/the-wonderland.pw.toml"
+hash = "c1f4ddc303885a377158e7b6d436cc41eef5e8b3d6c60b94376f64b4573e4be7"
+metafile = true
 
 [[files]]
-file = "mods/the_wonderland-3.0.3-1.20.1-forge.jar"
-hash = "fb404ce52428d5fdc574be4808dfd79b4b283f9ac5c92f14299b75f460406da9"
+file = "mods/the_knocker-1.5.2-forge-1.20.1.jar"
+hash = "43af17f0400ed38bfc98be7bcc27c29c76a38f7472970bf83496c548abdec94e"
 
 [[files]]
 file = "mods/tooltipoverhaul-forge-1.20.1-1.5.1.jar"
