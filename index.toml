@@ -684,3 +684,7 @@ hash = "e00bd87a949cfa8c31d571f4d9646db038e3b98f8cdbb7bd217f3fb9c3780c9e"
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
 hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
+
+[[files]]
+file = "servers.dat"
+hash = "19dc7f6f5df0233fd8ce580524a7361ed5afde326ab826f5cc52326a5e239b34"
