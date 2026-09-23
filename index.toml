@@ -17,7 +17,7 @@ file = "mods/AltOriginGui-forge-1.20.1-1.1.2.jar"
 hash = "2419e995d3eb2c853e90eba1ceadad37c512e9db2ff2a6db2c799ab57eefbd46"
 
 [[files]]
-file = "mods/ArcaneLanterns-v8.0.0-1.20.1-Forge.jar"
+file = "mods/ArcaneLanterns-v8.0.0-1.20.1-Forge.jar.disabled"
 hash = "3d0b475e523a360b7582013d4d9101ede620bb58e4d220b8ac5e5f2d441ace9f"
 
 [[files]]
