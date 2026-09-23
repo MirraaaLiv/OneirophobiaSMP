@@ -1,12 +1,12 @@
 name = "Oneirophobia SMP"
 author = "Chaotic"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "616e20a88ca33ae3d2538b28758dcc5035474695748de2796ba3498e80cee914"
+hash = "50a7983fb56850ba754eda12d3692a239d9d2f70a4697545ccf7fea0ee9a7464"
 
 [versions]
 forge = "47.4.10"

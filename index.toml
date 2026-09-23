@@ -683,19 +683,3 @@ hash = "e00bd87a949cfa8c31d571f4d9646db038e3b98f8cdbb7bd217f3fb9c3780c9e"
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
 hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
-
-[[files]]
-file = "resourcepacks/Better-Leaves-9.6.zip"
-hash = "cbeeccd774f910ed270dbe9651d789a8f785d055499f846e466d86f9cae91e90"
-
-[[files]]
-file = "resourcepacks/Dark Hearts 1.16x.zip"
-hash = "e43a642c5d85cb79b0ed25d8396de031f1380f556d482ee8c8986492b2c8aebc"
-
-[[files]]
-file = "resourcepacks/Quark Programmer Art.zip"
-hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
-
-[[files]]
-file = "resourcepacks/willowshorrorcavesounds.zip"
-hash = "59a01ed3a8f3a39f41d7f1128621054a8a03232b4bdb0245c11f21619eb79c82"
