@@ -638,7 +638,7 @@ hash = "e40f48a8a9bf1f39ea173a7c163285df199b7d2cf1dfcbf3efa721fe7f2f942c"
 
 [[files]]
 file = "mods/the-wonderland.pw.toml"
-hash = "2e4220b168fc380b91d77e6a6b163ca618b350463d68277295f361093a78b072"
+hash = "ae36fcae0dbc5fb5910d649d35846adedf2a54307e102d53fe6f20ab29c8752e"
 metafile = true
 
 [[files]]
