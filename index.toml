@@ -149,6 +149,10 @@ file = "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
 hash = "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
 
 [[files]]
+file = "mods/Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar"
+hash = "8f05afb56310b21e91d2f1d1200a9c0d98a34a9689b9b6288a6507c0498b299d"
+
+[[files]]
 file = "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar"
 hash = "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047"
 
@@ -175,6 +179,10 @@ hash = "c90b96f049d92825c4a103721988c80d72e5ad380d17be46a0f53e114874c478"
 [[files]]
 file = "mods/Ribbits-1.20.1-Forge-3.0.5.jar"
 hash = "e04aa665df7e96844fe8833f29cc343feefac8ad7b949399d7b4a60475123e2b"
+
+[[files]]
+file = "mods/ScorchedBrass-0.0.1-1.20.1.jar"
+hash = "c44e08c2cb4c8234040b1b99acf04c16ed030839b3077f54a49b23e5003dc4d0"
 
 [[files]]
 file = "mods/ScorchedGuns-0.5.5-1.20.1.jar"
@@ -263,6 +271,10 @@ hash = "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c"
 [[files]]
 file = "mods/amwplushies-forge-1.20.1-4.4.0.jar"
 hash = "5c1e5da3e1da680297b05604c5d15c273804fd6f154579c58563b4843d906377"
+
+[[files]]
+file = "mods/apiumradio-1.1.0-rf1.jar"
+hash = "613fae680ffebdbf6440a0269a6f34ea812b2fb977766340878e6cf8432e93f2"
 
 [[files]]
 file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
